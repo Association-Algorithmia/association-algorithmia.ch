@@ -24,7 +24,7 @@ Lorenz serves as Algorithmia's Treasurer, managing the organization's finances a
 
 ## Timeline:
 
-# <a id="vf"></a>Rencontrez les membres du Comité d'Algorithmia
+# <a id="vf"></a>[FR] Rencontrez les membres du Comité d'Algorithmia
 Nous sommes ravis de vous présenter le comité exécutif d'Algorithmia, une équipe compétente et dévouée qui oriente et soutient la vision et les activités de notre organisation. Nos membres du comité ont été élus lors de notre dernière [assemblée générale](/about/ga.md), et leurs diverses expériences et compétences contribuent à une communauté dynamique et innovante.
 
 Le comité, en tant qu'organe exécutif de l'Association, joue un rôle crucial dans la gestion des affaires de l'Association et sa représentation auprès des tiers conformément aux Statuts (art. 69 CC). Parmi leurs principales responsabilités figurent l'assurance de l'application des Statuts et des autres réglementations internes, la gestion des affaires courantes, l'administration des ressources, la gestion des comptes, la convocation et l'organisation de l'Assemblée Générale, et le traitement des admissions et des exclusions des membres. Pour plus d'informations, veuillez consulter [les statuts de l'association](/about/statutes.md).

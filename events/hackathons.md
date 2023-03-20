@@ -31,7 +31,7 @@ If you are interested in participating in or organizing a hackathon with Algorit
 
 ---
 
-# <a id="vf"></a>Hackathon events [FR]
+# <a id="vf"></a>[FR] Hackathon events
 Chez Algorithmia, nous sommes passionnés par la promotion de l'innovation, la collaboration et l'apprentissage à travers les hackathons. Les hackathons sont des événements intensifs et limités dans le temps où les participants travaillent ensemble en équipes pour résoudre des problèmes difficiles ou créer des projets innovants dans des domaines tels que la programmation, la robotique, la sécurité, la construction et plus encore.
 
 ## Notre approche

@@ -19,7 +19,7 @@ As a recognized university association hosted by the University of Neuchâtel, w
 
 ---
 
-# <a id="vf"></a>Université de Neuchâtel [UniNE](https://www.unine.ch)
+# <a id="vf"></a>[FR] Université de Neuchâtel [UniNE](https://www.unine.ch)
 L'Université de Neuchâtel, située à Neuchâtel en Suisse, est une institution hautement considérée qui prend fierté de son association avec diverses organisations universitaires reconnues. L'université est guidée par sa charte, qui décrit ses valeurs fondamentales et ses ambitions. L'établissement vise à atteindre l'excellence dans l'enseignement et la recherche, à promouvoir ses domaines d'expertise, à établir des partenariats nationaux et internationaux, et à contribuer au développement socio-économique et culturel de la région de l'Arc jurassien.
 
 En tant que signataire de la Magna Charta Universitatum (Bologne, 1988), l'Université de Neuchâtel adhère et met en œuvre ses principes fondamentaux. L'université s'engage également en faveur de la durabilité et de la responsabilité environnementale.

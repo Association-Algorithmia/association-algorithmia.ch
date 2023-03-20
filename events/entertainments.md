@@ -32,7 +32,7 @@ Our outreach entertainment events are designed to be as accessible and inclusive
 
 ---
 
-# <a id="vf"></a>Divertissement et Sensibilisation
+# <a id="vf"></a>[FR] Divertissement et Sensibilisation
 Chez Algorithmia, nous croyons en la promotion d'un fort sentiment de communauté et d'engagement grâce à nos événements de divertissement et sensibilisation. Ces événements sont conçus pour présenter nos projets, démontrer les capacités de l'IA, de la robotique et de la pensée computationnelle créative, et rassembler des individus partageant les mêmes passions pour l'apprentissage et l'innovation.
 
 Nos événements de divertissement et sensibilisation comprennent :

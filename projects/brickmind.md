@@ -38,7 +38,7 @@ If you are interested in participating in or organizing a hackathon with Algorit
 
 ---
 
-# <a id="vf"></a>BrickMind Hackathon
+# <a id="vf"></a>[FR] BrickMind Hackathon
 Chez Algorithmia, nous organisons également un hackathon personnalisé unique et passionnant qui combine les mondes de la construction, de la robotique et de l'intelligence artificielle. Notre hackathon "BrickMind" invite les participants à utiliser des briques LEGO et du code pour créer des prototypes de solutions réelles.
 
 Cet événement innovant encourage les participants à penser de manière créative et à travailler en collaboration pour concevoir, construire et programmer des modèles robotiques en utilisant des briques LEGO, des capteurs et des moteurs. L'objectif est de développer des solutions robotiques pilotées par l'IA pour relever des défis concrets dans des domaines tels que les transports, l'agriculture, la santé et bien d'autres.

@@ -38,11 +38,11 @@ If you're ready to embark on an exhilarating journey into the world of computati
 
 Don't miss out on this incredible opportunity! Contact us today to learn more about [membership](/about/memberships.md), [upcoming events](/events/readme.md), and how you can become an active part of Algorithmia's exhilarating journey. Let's make the future together!
 
-![Algorithmia Discord Server](https://discordapp.com/api/guilds/1015265175147905134/widget.png?style=banner3)
+[![Algorithmia Discord Server](https://discordapp.com/api/guilds/1015265175147905134/widget.png?style=banner3)](https://discord.gg/EGxQ73Dguc)
 
 ---
 
-# <a id="vf"></a>Bienvenue à Algorithmia <br> Enflammons la Passion pour la Pensée Computationnelle !
+# <a id="vf"></a>[FR] Bienvenue à Algorithmia <br> Enflammons la Passion pour la Pensée Computationnelle !
 Une Association Universitaire à But Non Lucratif animée par la passion de l'Intelligence Artificielle et de la Robotique
 
 ## Introduction

@@ -21,7 +21,7 @@ By regularly reviewing the minutes from past meetings, members can stay informed
 
 ---
 
-# <a id="vf"></a>Procès-Verbaux
+# <a id="vf"></a>[FR] Procès-Verbaux
 L'objectif principal des procès-verbaux est de documenter les délibérations des réunions de manière claire, concise et organisée. Ils servent d'enregistrement des décisions prises, des actions entreprises et des sujets abordés lors des réunions. Les procès-verbaux sont essentiels pour tenir les membres informés, assurer la transparence et conserver un compte rendu historique précis des activités de l'organisation.
 
 ## Précédents Procès-verbaux

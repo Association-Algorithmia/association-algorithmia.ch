@@ -25,7 +25,7 @@ By participating in our workshops, you'll have the opportunity to learn new skil
 
 ---
 
-# <a id="vf"></a>(Français) Workshops
+# <a id="vf"></a>[FR] Workshops
 Chez Algorithmia, nous sommes convaincus que l'apprentissage pratique à travers des ateliers est un élément essentiel pour favoriser l'innovation et la croissance dans les domaines de l'intelligence artificielle, de la robotique et de la programmation. Nos ateliers sont conçus pour être interactifs, captivants et accessibles aux participants de différents niveaux de compétence, des débutants aux experts.
 
 ## Qu'est-ce qu'un atelier ?

@@ -19,7 +19,7 @@ Recognition by the rectorate implies adherence to certain rules and guidelines d
 
 ---
 
-# <a id="vf"></a>Statuts de l'association
+# <a id="vf"></a>[FR] Statuts de l'association
 
 Le but principal des statuts d'une organisation universitaire à but non lucratif est de définir le cadre légal et opérationnel pour mener à bien les activités de l'organisation. Les statuts en vigueur peuvent être consultés ci-dessus.
 

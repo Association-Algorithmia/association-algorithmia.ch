@@ -38,7 +38,7 @@ You can also stay updated on our upcoming events by following us on [Discord](ht
 
 ---
 
-# <a id="vf"></a>Évènements à venir
+# <a id="vf"></a>[FR] Évènements à venir
 
 Bienvenue sur la page des événements à venir d'Algorithmia ! Nous nous engageons à proposer une large gamme d'événements captivants et inspirants, adaptés aux personnes ayant des intérêts et des compétences variés dans les domaines de l'intelligence artificielle, de la robotique et de la pensée computationnelle. Nos événements comprennent des ateliers, des hackathons, des conférences, des événements de divertissement en extérieur, et bien plus encore. Pour en savoir plus sur les différents types d'événements que nous organisons, veuillez consulter les pages dédiées suivantes :
 

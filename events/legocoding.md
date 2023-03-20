@@ -44,7 +44,7 @@ Join us at our next Lego Coding event and immerse yourself in a world of creativ
 
 ---
 
-# <a id="vf"></a>Lego Coding (Français)
+# <a id="vf"></a>[FR] Lego Coding
 Rejoignez-nous lors de notre événement hebdomadaire passionnant "Lego Coding", où les membres se rassemblent pour créer, innover et explorer le monde de la construction LEGO et de l'automatisation en utilisant des micro-ordinateurs Raspberry Pi. Ces séances captivantes offrent un environnement amusant et collaboratif pour les passionnés de tous niveaux de compétence pour développer leur créativité et leurs compétences techniques.
 
 En tant que membre, vous aurez accès à des ensembles LEGO exclusifs, des manuels LEGO, des tutoriels, des magazines dédiés et bien plus encore. Nous nous efforçons de fournir une gamme diversifiée de ressources pour améliorer votre expérience et stimuler votre créativité. Les exemples incluent :

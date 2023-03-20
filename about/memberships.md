@@ -50,7 +50,7 @@ As a member, you'll be part of a thriving community that actively promotes learn
 
 ---
 
-# <a id="vf"></a>Types d'adhésion
+# <a id="vf"></a>[FR] Types d'adhésion
 
 ## Introduction
 Chez Algorithmia, nous accueillons des membres de tous horizons et niveaux d'expertise pour se lancer dans un voyage passionnant dans le monde de la pensée computationnelle, de l'intelligence artificielle et de la robotique. Afin de répondre aux besoins de notre communauté diversifiée, nous proposons différents types d'adhésion avec des frais semestriels distincts. Vos frais d'adhésion contribuent au soutien et à la durabilité de notre association, couvrant les coûts initiaux et de renouvellement des équipements électroniques fournis, des matériaux de construction, de la location d'équipements spéciaux et des frais fixes, tels que l'assurance responsabilité. Découvrez le type d'adhésion qui vous convient le mieux et rejoignez notre communauté dynamique dès aujourd'hui!

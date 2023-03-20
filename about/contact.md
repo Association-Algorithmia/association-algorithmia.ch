@@ -35,7 +35,7 @@ Thank you for your interest in Algorithmia. We appreciate your support and look 
 
 ---
 
-# <a id="vf"></a>Contactez-nous
+# <a id="vf"></a>[FR] Contactez-nous
 Nous serions ravis de recevoir de vos nouvelles ! Si vous avez des questions, des suggestions ou des commentaires, n'hésitez pas à nous contacter par l'un des moyens suivants :
 
 ## Email

@@ -37,7 +37,7 @@ For any other type of donation or inquiry, please do not hesitate to contact us.
 
 ---
 
-# <a id="vf"></a>Faire un don
+# <a id="vf"></a>[FR] Faire un don
 
 Chez Algorithmia, nous sommes une organisation universitaire à but non lucratif dédiée à la fourniture d'événements éducatifs et captivants dans les domaines de l'intelligence artificielle, de la robotique et de la pensée computationnelle. Nous nous efforçons de rendre nos événements aussi accessibles que possible, en proposant gratuitement ou à faible coût un grand nombre d'entre eux. Cependant, la maintenance et le renouvellement de notre matériel, l'acquisition de nouvelles ressources passionnantes et la sensibilisation au plus grand nombre de personnes nécessitent un soutien financier important.
 
