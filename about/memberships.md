@@ -48,8 +48,6 @@ Our external non-student membership is open to anyone not affiliated with the Un
 ## Join us Today!
 As a member, you'll be part of a thriving community that actively promotes learning, collaboration, and innovation. Your membership fees play a crucial role in supporting the growth and success of Algorithmia, as well as granting you access to exclusive resources and events. Don't miss out on this unique opportunity—join Algorithmia today and help shape the future together!
 
-You can register your membership either by meeting us in person, or contacting us by , by , or via our .
-
 You can sign up for membership either by meeting us face-to-face or by reaching out to us via [email](/about/contact.md), [Discord](https://discord.gg/EGxQ73Dguc), or through our [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdFx3oz9UobiXM4cRWF_LHGFiswC1OsdaSv_JkCSCxnw7o0Zg/viewform).
 
 ---

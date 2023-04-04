@@ -36,7 +36,7 @@ Algorithmia offers a variety of engaging and captivating activities designed to 
 
 If you're ready to embark on an exhilarating journey into the world of computational thinking, AI, and robotics, look no further than Algorithmia! As a member, you'll be part of a vibrant community that's shaping the future of technology. Together, we can drive innovation and try to make a lasting impact on the world, or at least at Neuchâtel.
 
-Don't miss out on this incredible opportunity! Contact us today to learn more about [membership](/about/memberships.md) and [upcoming events](/events/readme.md), or sign up directly using our [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdFx3oz9UobiXM4cRWF_LHGFiswC1OsdaSv_JkCSCxnw7o0Zg/viewform). Become an active part of Algorithmia's exhilarating journey and let's shape the future of the Association together!
+Don't miss out on this incredible opportunity! Contact us today to learn more about [membership](/about/memberships.md) and [upcoming events](/events/readme.md), or sign up directly using our [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdFx3oz9UobiXM4cRWF_LHGFiswC1OsdaSv_JkCSCxnw7o0Zg/viewform). Become an active part of Algorithmia's exhilarating journey and let's shape the future of the association together!
 
 [![Algorithmia Discord Server](https://discordapp.com/api/guilds/1015265175147905134/widget.png?style=banner3)](https://discord.gg/EGxQ73Dguc)
 
@@ -69,4 +69,4 @@ Si vous êtes prêt à vous lancer dans un voyage exaltant dans le monde de la p
 
 Ne manquez pas cette incroyable opportunité ! Contactez-nous dès aujourd'hui pour en savoir plus sur [l'adhésion](/about/memberships.md), les [événements à venir](/events/readme.md) et comment vous pouvez devenir une partie active du voyage exaltant d'Algorithmia. Construisons l'avenir ensemble !
 
-Ne manquez pas cette incroyable opportunité ! Contactez-nous dès aujourd'hui pour en savoir plus sur les [adhésions]((/about/memberships.md)) et les [événements à venir](/events/readme.md), ou inscrivez-vous directement en utilisant notre [formulaire Google](https://docs.google.com/forms/d/e/1FAIpQLSdFx3oz9UobiXM4cRWF_LHGFiswC1OsdaSv_JkCSCxnw7o0Zg/viewform). Devenez un membre actif du passionnant parcours d'Algorithmia et façonnons ensemble l'avenir d'Algorithmia !
+Ne manquez pas cette incroyable opportunité ! Contactez-nous dès aujourd'hui pour en savoir plus sur les [adhésions]((/about/memberships.md)) et les [événements à venir](/events/readme.md), ou inscrivez-vous directement en utilisant notre [formulaire Google](https://docs.google.com/forms/d/e/1FAIpQLSdFx3oz9UobiXM4cRWF_LHGFiswC1OsdaSv_JkCSCxnw7o0Zg/viewform). Devenez un membre actif du passionnant parcours d'Algorithmia et façonnons ensemble l'avenir de l'association !
