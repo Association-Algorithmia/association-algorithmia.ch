@@ -13,7 +13,7 @@ If you have any further questions or need assistance, please don't hesitate to g
 
 **How can I become a member of Algorithmia?**<p><details><summary>Membership page</summary>
     ```
-    To become a member of Algorithmia, please visit our membership page and follow the instructions provided. You'll find information about membership benefits, fees, and the registration process.
+    To become a member of Algorithmia, please visit our [membership page](/about/memberships.md) and follow the instructions provided. You'll find information about membership benefits, fees, and the registration process.
     ```
     </details></p>
 

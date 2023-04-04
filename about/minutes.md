@@ -15,6 +15,7 @@ The primary goal of minutes is to document the proceedings of meetings in a clea
 Below is a list of previous minutes from past meetings. Click on the respective links to access the full minutes for each meeting:
 
 - [Minutes of the Board Meeting - March 14, 2023](/documents/20230314-boardmeeting.pdf)
+- [Minutes of the Board Meeting - April 04, 2023](/documents/20230404-boardmeeting.pdf)
 
 By regularly reviewing the minutes from past meetings, members can stay informed about the organization's decisions, track the progress of various projects and initiatives, and ensure accountability for actions taken.
 

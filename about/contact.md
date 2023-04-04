@@ -26,8 +26,8 @@ We are always interested in exploring new partnerships and collaborations. If yo
 
 ## Mailing Address
 Algorithmia
-Université de Neuchâtel
-Avenue du 1er-Mars 26
+Information Management Institute
+A.L.Breguet 2
 CH-2000 Neuchâtel
 Switzerland
 

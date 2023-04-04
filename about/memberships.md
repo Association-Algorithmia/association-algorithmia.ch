@@ -48,6 +48,10 @@ Our external non-student membership is open to anyone not affiliated with the Un
 ## Join us Today!
 As a member, you'll be part of a thriving community that actively promotes learning, collaboration, and innovation. Your membership fees play a crucial role in supporting the growth and success of Algorithmia, as well as granting you access to exclusive resources and events. Don't miss out on this unique opportunity—join Algorithmia today and help shape the future together!
 
+You can register your membership either by meeting us in person, or contacting us by , by , or via our .
+
+You can sign up for membership either by meeting us face-to-face or by reaching out to us via [email](/about/contact.md), [Discord](https://discord.gg/EGxQ73Dguc), or through our [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdFx3oz9UobiXM4cRWF_LHGFiswC1OsdaSv_JkCSCxnw7o0Zg/viewform).
+
 ---
 
 # <a id="vf"></a>[FR] Types d'adhésion
@@ -94,3 +98,5 @@ Notre adhésion externe non-étudiante est ouverte à toute personne non affili�
 
 ## Rejoignez-nous dès aujourd'hui !
 En tant que membre, vous ferez partie d'une communauté florissante qui promeut activement l'apprentissage, la collaboration et l'innovation. Vos frais d'adhésion jouent un rôle crucial dans le soutien à la croissance et au succès d'Algorithmia, tout en vous donnant accès à des ressources et des événements exclusifs. Ne manquez pas cette opportunité unique - rejoignez Algorithmia dès aujourd'hui et contribuez à façonner l'avenir ensemble !
+
+Vous pouvez vous inscrire en tant que membre en nous rencontrant en personne ou en nous contactant par [email](/about/contact.md), par [Discord](https://discord.gg/EGxQ73Dguc) ou via notre [formulaire Google](https://docs.google.com/forms/d/e/1FAIpQLSdFx3oz9UobiXM4cRWF_LHGFiswC1OsdaSv_JkCSCxnw7o0Zg/viewform).
