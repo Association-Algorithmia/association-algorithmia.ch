@@ -14,6 +14,7 @@ The General Assembly is the supreme authority of a non-profit university organiz
 The General Assembly's meetings and decisions are recorded in the minutes and can be find below:
 
 - [Minutes of the Constituent General Assembly of Algorithmia](/documents/minutes-founding-Algorithmia-20230310.pdf)
+- [Minutes of the Extraordinary General Assembly - April 15, 2023](/documents/minutes-20230415-extraordinary-ga.pdf)
 
 # <a id="vf"></a>[FR] Assemblées Générales de l'Association
 L'Assemblée Générale est l'autorité suprême d'une organisation universitaire à but non lucratif, responsable de la nomination des membres du comité et de la supervision de la gouvernance, de l'administration et de la représentation. Les réunions ont lieu au moins deux fois par an, et les ordres du jour incluent généralement l'approbation des procès-verbaux précédents, les rapports d'activité du comité, les rapports financiers et les mises à jour des élections. Les membres ont des droits de vote égaux et les décisions nécessitent un vote à la majorité simple. Pour plus d'informations sur les rôles, responsabilités et procédures de l'Assemblée Générale, veuillez consulter [les statuts de l'association](/about/statutes.md).

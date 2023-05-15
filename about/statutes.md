@@ -14,7 +14,7 @@ Being recognized as a university association by the rectorate is essential for e
 
 Recognition by the rectorate implies adherence to certain rules and guidelines described in the charter of the University of Neuchâtel, which you can consult below. By adhering to these rules, the organization ensures that it maintains a harmonious collaboration with the university and takes advantage of the resources and support offered to carry out its missions and activities.
 
-- [Algorithmia Statutes 20/03/2023](/documents/statutes-Algorithmia-20230310.pdf)
+- [Algorithmia Statutes 15/04/2023](/documents/statutes-Algorithmia-20230415.pdf)
 - [Charter of the University of Neuchâtel (in French)](/documents/CHARTE_UniNE.pdf)
 
 ---
